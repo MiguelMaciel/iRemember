@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\miguel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\miguel\AndroidstudioProjects\iRemember\iRememberContentProvider\build\intermediates\pre-dexed\debug\support-v4-18.0.0-027567a9140df54a768e01bbfa7fb16925599cee.jar" />
+    </item>
+    <item
+        jar="C:\Users\miguel\AndroidstudioProjects\iRemember\app\libs\slf4j-api-1.7.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="04a1c54e213b8a3ae375b7b0ef95791bcac61c71">
+        <dex dex="C:\Users\miguel\AndroidstudioProjects\iRemember\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.5-f21ee5c9a62a15b986dd2296bf9a1299ef9790cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\miguel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\miguel\AndroidstudioProjects\iRemember\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-027567a9140df54a768e01bbfa7fb16925599cee.jar" />
+    </item>
+
+</items>
